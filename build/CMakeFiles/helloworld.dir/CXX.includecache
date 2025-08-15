@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/project_1/src/chat_server.cpp
+iostream
+-
+vector
+-
+string
+-
+cstring
+-
+unistd.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+fcntl.h
+-
+arpa/inet.h
+-
+

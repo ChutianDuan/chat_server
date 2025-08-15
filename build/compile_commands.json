@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/project_1/build",
+  "command": "/usr/bin/c++  -D_REENTRANT -I/home/project_1/third_party  -g   -pthread -std=gnu++17 -o CMakeFiles/chat_server_le.dir/src/chat_server_le.cpp.o -c /home/project_1/src/chat_server_le.cpp",
+  "file": "/home/project_1/src/chat_server_le.cpp"
+},
+{
+  "directory": "/home/project_1/build",
+  "command": "/usr/bin/c++  -D_REENTRANT -I/home/project_1/third_party  -g   -pthread -std=gnu++17 -o CMakeFiles/chat_client.dir/src/chat_client.cpp.o -c /home/project_1/src/chat_client.cpp",
+  "file": "/home/project_1/src/chat_client.cpp"
+},
+{
+  "directory": "/home/project_1/build",
+  "command": "/usr/bin/c++  -D_REENTRANT -I/home/project_1/third_party  -g   -pthread -std=gnu++17 -o CMakeFiles/chat_server.dir/src/chat_server.cpp.o -c /home/project_1/src/chat_server.cpp",
+  "file": "/home/project_1/src/chat_server.cpp"
+}
+]

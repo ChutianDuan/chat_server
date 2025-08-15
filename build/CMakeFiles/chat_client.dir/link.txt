@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/chat_client.dir/src/chat_client.cpp.o  -o chat_client  /usr/lib/x86_64-linux-gnu/libevent_pthreads.so /usr/lib/x86_64-linux-gnu/libevent.so -pthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/helloworld.dir/src/chat_client.cpp.o CMakeFiles/helloworld.dir/src/chat_server.cpp.o  -o helloworld 
